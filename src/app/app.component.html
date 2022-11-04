@@ -1,5 +1,18 @@
 <div class="class">
-  <h1>Hello World em Angular!</h1>
+  <h1>Hello World utilizando Angular!</h1>
+  <h2>Testando css dedicado ao compomente, não afeta o elemento no app pai</h2>
+  <p>Alguma coisa!</p>
+  <a
+    href="http://github.com/laurourbano"
+    target="_blank"
+    rel="noopener noreferrer"
+    >Acesse meu github</a
+  >
 </div>
-
+<div class="class">
+  <app-first-component></app-first-component>
+</div>
+<div class="class">
+  <app-parent-data [name]="userName" [userData]="userData"></app-parent-data>
+</div>
 <router-outlet></router-outlet>
