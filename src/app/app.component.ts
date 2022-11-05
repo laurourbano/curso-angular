@@ -9,8 +9,8 @@ export class AppComponent {
   userName: String = 'Lauro Otávio Urbano';
 
   userData = {
-    email: 'lauro@email.com.br',
-    tel: 5541999999999,
+    email: 'lauro@outlook.com.br',
+    tel: 5541998086077,
     role: 'Admin'
   }
 
