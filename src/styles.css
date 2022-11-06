@@ -1,9 +1,10 @@
-*{
+* {
   padding: 0;
   margin: 0;
-  font-family: Helvetica;
+  font-family: sans-serif;
   box-sizing: border-box;
 }
-a{
-  color: orange;
+
+a {
+  color: #f1b;
 }
