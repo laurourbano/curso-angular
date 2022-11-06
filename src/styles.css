@@ -5,6 +5,11 @@
   box-sizing: border-box;
 }
 
+body {
+  margin-bottom: 100px;
+
+}
+
 a {
   color: #f1b;
 }
